@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: M+ Score and Level Display
+## Notes: M+ Score and Level Display
+## Author: Pytilix
+## X-License: All Rights Reserved
+## X-Copyright: Copyright (c) 2021-2026 Pytilix. All rights reserved.
+
+LFG_SeasonStats.lua
